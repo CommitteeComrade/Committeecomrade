@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on KeyPass
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Assembly x86_64-bit.
 - 👯 I’m looking to collaborate on Anything
 - 🤔 I’m looking for help with KeyPass
 - 💬 Ask me about Anything
